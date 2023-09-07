@@ -1,0 +1,129 @@
+CRITICAL - 2023-08-15 08:21:31 --> Undefined property: App\Controllers\Home::$M_anggota
+in APPPATH\Controllers\Home.php on line 43.
+ 1 APPPATH\Controllers\Home.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Home::$M_anggota', 'APPPATH\\Controllers\\Home.php', 43)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->AnggotaRelawan()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-08-15 08:22:13 --> Cannot declare class App\Models\M_relawan, because the name is already in use
+in APPPATH\Models\M_anggota.php on line 7.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-08-15 08:23:53 --> Cannot declare class App\Models\M_relawan, because the name is already in use
+in APPPATH\Models\M_anggota.php on line 7.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-08-15 08:25:10 --> Call to a member function orderBy() on null
+in APPPATH\Controllers\Home.php on line 46.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->AnggotaRelawan()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-08-15 08:25:40 --> Call to a member function orderBy() on null
+in APPPATH\Controllers\Home.php on line 46.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->AnggotaRelawan()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-08-15 08:25:53 --> Cannot declare class App\Models\M_relawan, because the name is already in use
+in APPPATH\Models\M_anggota.php on line 7.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-08-15 08:28:04 --> Array to string conversion
+in APPPATH\Controllers\Home.php on line 49.
+ 1 APPPATH\Controllers\Home.php(49): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'APPPATH\\Controllers\\Home.php', 49)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->AnggotaRelawan()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-08-15 08:28:46 --> Array to string conversion
+in APPPATH\Controllers\Home.php on line 49.
+ 1 APPPATH\Controllers\Home.php(49): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'APPPATH\\Controllers\\Home.php', 49)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->AnggotaRelawan()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-08-15 08:29:00 --> Array to string conversion
+in APPPATH\Controllers\Home.php on line 49.
+ 1 APPPATH\Controllers\Home.php(49): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'APPPATH\\Controllers\\Home.php', 49)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->AnggotaRelawan()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-08-15 08:30:01 --> Array to string conversion
+in APPPATH\Controllers\Home.php on line 49.
+ 1 APPPATH\Controllers\Home.php(49): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'APPPATH\\Controllers\\Home.php', 49)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->AnggotaRelawan()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-08-15 08:35:45 --> Array to string conversion
+in APPPATH\Controllers\Home.php on line 49.
+ 1 APPPATH\Controllers\Home.php(49): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'APPPATH\\Controllers\\Home.php', 49)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->AnggotaRelawan()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2023-08-15 14:23:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-15 14:23:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-15 14:23:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-15 14:49:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-15 14:49:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-15 14:49:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-15 14:49:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-15 14:50:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-15 14:50:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-15 14:50:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-15 14:50:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-15 14:50:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-15 14:50:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-15 14:51:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-15 14:51:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-15 15:29:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-15 15:29:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-15 15:29:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-15 15:31:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-15 15:31:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-15 15:32:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-15 15:33:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-15 15:33:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-15 15:33:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-08-15 15:33:39 --> mysqli_sql_exception: Column 'sumber_kalangan' cannot be null in C:\xampp\htdocs\Webgis-Pemenangan\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\Webgis-Pemenangan\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `ri...', 0)
+#1 C:\xampp\htdocs\Webgis-Pemenangan\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `ri...')
+#2 C:\xampp\htdocs\Webgis-Pemenangan\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `ri...')
+#3 C:\xampp\htdocs\Webgis-Pemenangan\system\Database\BaseBuilder.php(2294): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ri...', Array, false)
+#4 C:\xampp\htdocs\Webgis-Pemenangan\system\Model.php(329): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\Webgis-Pemenangan\system\BaseModel.php(782): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\Webgis-Pemenangan\system\Model.php(728): CodeIgniter\BaseModel->insert(Array, false)
+#7 C:\xampp\htdocs\Webgis-Pemenangan\system\BaseModel.php(692): CodeIgniter\Model->insert(Array, false)
+#8 C:\xampp\htdocs\Webgis-Pemenangan\app\Controllers\Home.php(101): CodeIgniter\BaseModel->save(Array)
+#9 C:\xampp\htdocs\Webgis-Pemenangan\system\CodeIgniter.php(934): App\Controllers\Home->Proses_relawan()
+#10 C:\xampp\htdocs\Webgis-Pemenangan\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#11 C:\xampp\htdocs\Webgis-Pemenangan\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\Webgis-Pemenangan\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#13 C:\xampp\htdocs\Webgis-Pemenangan\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#14 {main}
+CRITICAL - 2023-08-15 15:33:39 --> Column 'sumber_kalangan' cannot be null
+in SYSTEMPATH\Database\BaseConnection.php on line 645.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2294): CodeIgniter\Database\BaseConnection->query('INSERT INTO `rimuku` (`nama`, `nik`, `tps`, `sumber_kalangan`, `keterangan`) VALUES (:nama:, :nik:, :tps:, :sumber_kalangan:, :keterangan:)', [...], false)
+ 2 SYSTEMPATH\Model.php(329): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(782): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(728): CodeIgniter\BaseModel->insert([...], false)
+ 5 SYSTEMPATH\BaseModel.php(692): CodeIgniter\Model->insert([...], false)
+ 6 APPPATH\Controllers\Home.php(101): CodeIgniter\BaseModel->save([...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->Proses_relawan()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2023-08-15 15:34:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-15 15:34:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-15 19:46:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-15 19:46:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.

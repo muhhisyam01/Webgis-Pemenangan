@@ -1,0 +1,13 @@
+__ci_last_regenerate|i:1692110972;_ci_previous_url|s:35:"http://localhost:8080/TambahRelawan";error|s:364:"<!-- DEBUG-VIEW START 1 SYSTEMPATH\Validation\Views\list.php -->
+	<div class="errors" role="alert">
+		<ul>
+					<li>nama Harus diisi</li>
+					<li>nik Harus diisi</li>
+					<li>tps Harus diisi</li>
+					<li>sumber_kalangan Harus diisi</li>
+					<li>keterangan Harus diisi</li>
+				</ul>
+	</div>
+
+<!-- DEBUG-VIEW ENDED 1 SYSTEMPATH\Validation\Views\list.php -->
+";__ci_vars|a:3:{s:5:"error";s:3:"old";s:13:"_ci_old_input";s:3:"old";s:21:"_ci_validation_errors";s:3:"old";}_ci_old_input|a:2:{s:3:"get";a:0:{}s:4:"post";a:4:{s:4:"nama";s:0:"";s:3:"nik";s:0:"";s:15:"sumber_kalangan";s:0:"";s:10:"keterangan";s:0:"";}}_ci_validation_errors|a:5:{s:4:"nama";s:16:"nama Harus diisi";s:3:"nik";s:15:"nik Harus diisi";s:3:"tps";s:15:"tps Harus diisi";s:15:"sumber_kalangan";s:27:"sumber_kalangan Harus diisi";s:10:"keterangan";s:22:"keterangan Harus diisi";}
